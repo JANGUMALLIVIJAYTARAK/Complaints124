@@ -4,3 +4,4 @@ const adminSchema = new mongoose.Schema({
   password:String
 });
 module.exports = mongoose.model("AdminAuth", adminSchema);
+//schema
